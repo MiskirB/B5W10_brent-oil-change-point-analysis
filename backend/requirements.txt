@@ -5,3 +5,4 @@ arviz==0.17.1
 click==8.1.7
 pandas
 numpy
+scipy>=1.10.0
