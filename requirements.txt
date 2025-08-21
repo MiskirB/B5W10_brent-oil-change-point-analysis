@@ -8,3 +8,5 @@ arviz
 jupyter
 notebook
 scikit-learn
+Flask==2.3.3
+
