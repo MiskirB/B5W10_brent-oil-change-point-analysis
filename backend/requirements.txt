@@ -1,8 +1,7 @@
-fastapi
-uvicorn
-pymc
-arviz==0.17.1
-click==8.1.7
-pandas
-numpy
+pymc==5.9.0
+arviz==0.16.1
 scipy>=1.10.0
+numpy
+pandas
+uvicorn
+fastapi
